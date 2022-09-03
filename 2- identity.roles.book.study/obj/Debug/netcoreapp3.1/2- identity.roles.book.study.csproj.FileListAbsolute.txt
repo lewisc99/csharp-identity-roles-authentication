@@ -1,0 +1,181 @@
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\appsettings.json
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.exe
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.deps.json
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.runtimeconfig.json
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.runtimeconfig.dev.json
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.Views.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.Views.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.csprojAssemblyReference.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.AssemblyInfoInputs.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.AssemblyInfo.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.csproj.CoreCompileInputs.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.MvcApplicationPartsAssemblyInfo.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorAssemblyInfo.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorAssemblyInfo.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\staticwebassets\2- identity.roles.book.study.StaticWebAssets.Manifest.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\staticwebassets\2- identity.roles.book.study.StaticWebAssets.xml
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\scopedcss\bundle\2- identity.roles.book.study.styles.css
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.TagHelpers.input.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.TagHelpers.output.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorCoreGenerate.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorTargetAssemblyInfo.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorTargetAssemblyInfo.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.Views.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.csproj.CopyComplete
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.pdb
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.genruntimeconfig.cache
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\RoleAdmin\Index.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\RoleAdmin\Create.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\appsettings.json
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.exe
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.deps.json
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.runtimeconfig.json
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.runtimeconfig.dev.json
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.Views.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\2- identity.roles.book.study.Views.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.csprojAssemblyReference.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.AssemblyInfoInputs.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.AssemblyInfo.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.csproj.CoreCompileInputs.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.MvcApplicationPartsAssemblyInfo.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorAssemblyInfo.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorAssemblyInfo.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\staticwebassets\2- identity.roles.book.study.StaticWebAssets.Manifest.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\staticwebassets\2- identity.roles.book.study.StaticWebAssets.xml
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\scopedcss\bundle\2- identity.roles.book.study.styles.css
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.TagHelpers.input.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.TagHelpers.output.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorCoreGenerate.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\RoleAdmin\Create.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\RoleAdmin\Edit.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\RoleAdmin\Index.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorTargetAssemblyInfo.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.RazorTargetAssemblyInfo.cs
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.Views.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.csproj.CopyComplete
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.dll
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.pdb
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.genruntimeconfig.cache
