@@ -179,3 +179,4 @@ D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- ide
 D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.dll
 D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.pdb
 D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\2- identity.roles.book.study.genruntimeconfig.cache
+D:\arquivos\programation\workspace-c#\month 8\2-identity.roles.book.study\2- identity.roles.book.study\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs

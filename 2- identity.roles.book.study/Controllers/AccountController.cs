@@ -73,5 +73,13 @@ namespace _2__identity.roles.book.study.Controllers
             return RedirectToAction("Index", "Home");
         }
 
+
+        [AllowAnonymous]
+        public IActionResult AccessDenied()
+        {
+            return View();
+
+        }
+
     }
 }

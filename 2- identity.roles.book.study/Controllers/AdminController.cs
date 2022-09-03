@@ -1,5 +1,6 @@
 ﻿using _2__identity.roles.book.study.Models;
 using _2__identity.roles.book.study.Models.Dtos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -9,6 +10,8 @@ using System.Threading.Tasks;
 
 namespace _2__identity.roles.book.study.Controllers
 {
+
+    [Authorize(Roles="Admins")]
     public class AdminController : Controller
     {
         private UserManager<AppUser> userManager;

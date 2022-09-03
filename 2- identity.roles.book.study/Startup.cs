@@ -37,7 +37,7 @@ namespace _2__identity.roles.book.study
             {
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection"));
-
+                    
 
             });
 
@@ -87,6 +87,9 @@ namespace _2__identity.roles.book.study
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
+
+            AppIdentityDbContext.CreateAdminAccount(app.ApplicationServices, Configuration).Wait();
         }
     }
 }

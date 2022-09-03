@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 
 namespace _2__identity.roles.book.study.Controllers
 {
+
+
+    [Authorize(Roles ="Admins")]
     public class RoleAdminController :Controller
     {
 
